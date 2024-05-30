@@ -1,0 +1,1 @@
+python get_resource.py google/vit-base-patch16-224

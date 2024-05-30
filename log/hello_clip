@@ -1,0 +1,42 @@
+auto select gpu-0, sorted_used: [(0, 6), (1, 6), (2, 6), (3, 4530)]
+Files already downloaded and verified
+train/test samples:  50000 10000
+Classification Report:
+               precision    recall  f1-score   support
+
+    airplane     0.0717    0.0350    0.0470      1000
+  automobile     0.1822    0.3960    0.2496      1000
+        bird     0.1484    0.1500    0.1492      1000
+         cat     0.1339    0.0810    0.1009      1000
+        deer     0.1011    0.1190    0.1093      1000
+         dog     0.0636    0.0220    0.0327      1000
+        frog     0.2230    0.2190    0.2210      1000
+       horse     0.0106    0.0040    0.0058      1000
+        ship     0.0595    0.0590    0.0593      1000
+       truck     0.0206    0.0380    0.0267      1000
+
+    accuracy                         0.1123     10000
+   macro avg     0.1015    0.1123    0.1002     10000
+weighted avg     0.1015    0.1123    0.1002     10000
+
+Confusion Matrix:
+ [[ 35 156  50 104  55  40 105  24  60 371]
+ [ 95 396  26  12  82  66  42  61 135  85]
+ [ 40 174 150  51 268  33 118  28  26 112]
+ [ 27 185 148  81 110  39 103  49 192  66]
+ [  9  54  39   8 119   3  19   9  18 722]
+ [ 63 410  82   8  18  22  72 148 110  67]
+ [ 63  90 102 101 114  32 219  24  79 176]
+ [ 20 308 165  13  18   9  69   4 260 134]
+ [ 91 184 194  98 226  20  30  21  59  77]
+ [ 45 216  55 129 167  82 205  11  52  38]]
+Accuracy for class 'airplane': 0.0350
+Accuracy for class 'automobile': 0.3960
+Accuracy for class 'bird': 0.1500
+Accuracy for class 'cat': 0.0810
+Accuracy for class 'deer': 0.1190
+Accuracy for class 'dog': 0.0220
+Accuracy for class 'frog': 0.2190
+Accuracy for class 'horse': 0.0040
+Accuracy for class 'ship': 0.0590
+Accuracy for class 'truck': 0.0380
