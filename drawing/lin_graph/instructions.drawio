@@ -1,0 +1,308 @@
+<mxfile host="Electron" modified="2024-06-03T07:12:11.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="5A3lfM3XEVE4Iih_Pgks" version="24.4.8" type="device" pages="6">
+  <diagram name="第 1 页" id="gVICFVdrSg6kbNrcCD56">
+    <mxGraphModel dx="712" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EJVYiEjXuZdErkog3Cel-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="64" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="55" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-4" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="119" y="50" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="169" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-9" value="Demonstration-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114" y="154" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="264" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="255" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-14" value="Demonstration-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="114" y="249" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-17" value="Please convert a temporal knowledge graph (TKG) quadruple of the form&amp;nbsp;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;(subject, action, object, the corresponding time of occurrence)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;into a&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;natural language sentence which is delimited by triple backticks.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Additionally, please &lt;b&gt;provide a plausible reason&lt;/b&gt; for the event from &lt;i&gt;two&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;pers&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;pectives&lt;/i&gt;: &lt;u&gt;recent historical events&lt;/u&gt; or &lt;u&gt;international political rel-&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;ations&lt;/u&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Here are some examples to guide you:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="111" y="74" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-24" value="Quadruple: (&#39;South Korea&#39;, &#39;Criticize or denounce&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;North Korea&#39;, &#39;2014-05-13&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Answer:&amp;nbsp;&lt;/div&gt;&lt;div&gt;South Korea strongly criticized North Korea on May 13, 2014. &lt;b&gt;&lt;u&gt;Because&lt;/u&gt;&lt;/b&gt; N-&lt;/div&gt;&lt;div&gt;orth Korea accused South Korea on May 11, 2024.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="111" y="176" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EJVYiEjXuZdErkog3Cel-25" value="Quadruple: (&#39;Foreign_Affairs_(Italy)&#39;, &#39;Sign_formal_agreement&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Emma_Bonino&#39;, &#39;2014-01-08&#39;)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Answer:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The Foreign Affairs of Italy signed a formal agreement with Emma Bonino&amp;nbsp;&lt;/div&gt;&lt;div&gt;on January 8, 2014. &lt;b&gt;&lt;u&gt;Because&lt;/u&gt;&lt;/b&gt; Emma Bonino is a Italy politician and human&lt;/div&gt;&lt;div&gt;rights activist.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="111" y="274" width="380" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 1 页 的副本" id="GxLwZJ93EYz49BRdO_Zy">
+    <mxGraphModel dx="814" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-0" />
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-1" parent="mUdRWAPTFQvDtzMRkfwL-0" />
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mUdRWAPTFQvDtzMRkfwL-1">
+          <mxGeometry x="100" y="59" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mUdRWAPTFQvDtzMRkfwL-1">
+          <mxGeometry x="120" y="50" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-4" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="mUdRWAPTFQvDtzMRkfwL-1">
+          <mxGeometry x="119" y="45" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-11" value="Please convert a temporal knowledge graph (TKG) quadruple of the form&amp;nbsp;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;(subject, action, object, the corresponding time of occurrence)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;into a&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;natural language sentence which is delimited by triple backticks.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Additionally, please &lt;b&gt;provide a plausible reason&lt;/b&gt; for the event from &lt;i&gt;two&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;pers&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;pectives&lt;/i&gt;: &lt;u&gt;recent historical events&lt;/u&gt; or &lt;u&gt;international political rel-&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;ations&lt;/u&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Here are some examples to guide you:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="mUdRWAPTFQvDtzMRkfwL-1">
+          <mxGeometry x="111" y="69" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JKqAr6lQ6lLdmMQnGG_T-1" value="" style="group" vertex="1" connectable="0" parent="mUdRWAPTFQvDtzMRkfwL-1">
+          <mxGeometry x="100" y="154" width="391" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JKqAr6lQ6lLdmMQnGG_T-1">
+          <mxGeometry y="15" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JKqAr6lQ6lLdmMQnGG_T-1">
+          <mxGeometry x="20" y="6" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-10" value="Demonstration-Background" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textShadow=0;" vertex="1" parent="JKqAr6lQ6lLdmMQnGG_T-1">
+          <mxGeometry x="15" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-13" value="Quadruple: (&#39;Foreign_Affairs_(Italy)&#39;, &#39;Sign_formal_agreement&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Emma_Bonino&#39;, &#39;2014-01-08&#39;)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Answer:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The Foreign Affairs of Italy signed a formal agreement with Emma Bonino&amp;nbsp;&lt;/div&gt;&lt;div&gt;on January 8, 2014. &lt;b&gt;&lt;u&gt;Because&lt;/u&gt;&lt;/b&gt; Emma Bonino is a Italy politician and human&lt;/div&gt;&lt;div&gt;rights activist.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="JKqAr6lQ6lLdmMQnGG_T-1">
+          <mxGeometry x="11" y="25" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JKqAr6lQ6lLdmMQnGG_T-2" value="" style="group" vertex="1" connectable="0" parent="mUdRWAPTFQvDtzMRkfwL-1">
+          <mxGeometry x="100" y="251" width="381" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JKqAr6lQ6lLdmMQnGG_T-2">
+          <mxGeometry y="15" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JKqAr6lQ6lLdmMQnGG_T-2">
+          <mxGeometry x="20" y="6" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-7" value="Demonstration-Historical-Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="JKqAr6lQ6lLdmMQnGG_T-2">
+          <mxGeometry x="15" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mUdRWAPTFQvDtzMRkfwL-12" value="Quadruple: (&#39;South Korea&#39;, &#39;Criticize or denounce&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;North Korea&#39;, &#39;2014-05-13&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Answer:&amp;nbsp;&lt;/div&gt;&lt;div&gt;South Korea strongly criticized North Korea on May 13, 2014. &lt;b&gt;&lt;u&gt;Because&lt;/u&gt;&lt;/b&gt; N-&lt;/div&gt;&lt;div&gt;orth Korea accused South Korea on May 11, 2024.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="JKqAr6lQ6lLdmMQnGG_T-2">
+          <mxGeometry x="11" y="23" width="370" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="历史挖掘" id="uT3Sj8sQvVJmFRDG9KPX">
+    <mxGraphModel dx="977" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--0" />
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--1" parent="2g8O9EW-d2PdFwr-3lg--0" />
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2g8O9EW-d2PdFwr-3lg--1">
+          <mxGeometry x="100" y="67" width="370" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2g8O9EW-d2PdFwr-3lg--1">
+          <mxGeometry x="120" y="58" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--4" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="2g8O9EW-d2PdFwr-3lg--1">
+          <mxGeometry x="119" y="53" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--5" value="Please convert a temporal knowledge graph (TKG) quadruple of the form&amp;nbsp;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;(subject, action, object, the corresponding time of occurrence)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;into a&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;natural language sentence which is delimited by triple backticks.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Additionally, please &lt;b&gt;provide a plausible reason&lt;/b&gt; for the event from &lt;i&gt;th-&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;is pers&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;pective&lt;/i&gt;: &lt;u&gt;&lt;b&gt;recent historical events&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Here is an demonstration to guide you:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="2g8O9EW-d2PdFwr-3lg--1">
+          <mxGeometry x="111" y="77" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--11" value="" style="group" vertex="1" connectable="0" parent="2g8O9EW-d2PdFwr-3lg--1">
+          <mxGeometry x="100" y="152" width="381" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2g8O9EW-d2PdFwr-3lg--11">
+          <mxGeometry y="15" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2g8O9EW-d2PdFwr-3lg--11">
+          <mxGeometry x="20" y="6" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--14" value="Demonstration-Historical-Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="2g8O9EW-d2PdFwr-3lg--11">
+          <mxGeometry x="15" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2g8O9EW-d2PdFwr-3lg--15" value="Quadruple: (&#39;South Korea&#39;, &#39;Criticize or denounce&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;North Korea&#39;, &#39;2014-05-13&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Answer:&amp;nbsp;&lt;/div&gt;&lt;div&gt;South Korea strongly criticized North Korea on May 13, 2014. &lt;b&gt;&lt;u&gt;Because&lt;/u&gt;&lt;/b&gt; N-&lt;/div&gt;&lt;div&gt;orth Korea accused South Korea on May 11, 2024.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="2g8O9EW-d2PdFwr-3lg--11">
+          <mxGeometry x="11" y="23" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oT67rbVGGfxxY20HrXwq-0" value="" style="group" vertex="1" connectable="0" parent="2g8O9EW-d2PdFwr-3lg--1">
+          <mxGeometry x="100" y="249" width="381" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="oT67rbVGGfxxY20HrXwq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oT67rbVGGfxxY20HrXwq-0">
+          <mxGeometry y="15" width="370" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oT67rbVGGfxxY20HrXwq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="oT67rbVGGfxxY20HrXwq-0">
+          <mxGeometry x="20" y="6" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oT67rbVGGfxxY20HrXwq-3" value="Input Question" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="oT67rbVGGfxxY20HrXwq-0">
+          <mxGeometry x="15" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oT67rbVGGfxxY20HrXwq-4" value="Quadruple: (&#39;North Korea&#39;, &#39;Make pessimistic comment&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Japan&#39;, &#39;2014-05-28&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Answer:&amp;nbsp;&lt;/div&gt;&lt;div&gt;_______&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="oT67rbVGGfxxY20HrXwq-0">
+          <mxGeometry x="11" y="25" width="290" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="背景挖掘" id="_uuipsB2rX4EjPFeJyA-">
+    <mxGraphModel dx="977" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-0" />
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-1" parent="zdHqMnHHbVyvmWfaEigO-0" />
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-1">
+          <mxGeometry x="100" y="69" width="370" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-1">
+          <mxGeometry x="120" y="60" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-4" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-1">
+          <mxGeometry x="119" y="55" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-5" value="Please convert a temporal knowledge graph (TKG) quadruple of the form&amp;nbsp;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;(subject, action, object, the corresponding time of occurrence)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;into a&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;natural language sentence which is delimited by triple backticks.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Additionally, please &lt;b&gt;provide a plausible reason&lt;/b&gt; for the event from &lt;i&gt;th-&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;is&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;pers&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;pective&lt;/i&gt;: &lt;u&gt;&lt;b&gt;international political rel&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;u style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;ations&lt;/b&gt;&lt;/u&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Here is an demonstration to guide you:&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-1">
+          <mxGeometry x="111" y="79" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-6" value="" style="group" vertex="1" connectable="0" parent="zdHqMnHHbVyvmWfaEigO-1">
+          <mxGeometry x="100" y="154" width="391" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-6">
+          <mxGeometry y="15" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-6">
+          <mxGeometry x="20" y="6" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-9" value="Demonstration-Background" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textShadow=0;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-6">
+          <mxGeometry x="15" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-10" value="Quadruple: (&#39;Foreign Affairs (Italy)&#39;, &#39;Sign formal agreement&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Emma Bonino&#39;, &#39;2014-01-08&#39;)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Answer:&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The Foreign Affairs of Italy signed a formal agreement with Emma Bonino&amp;nbsp;&lt;/div&gt;&lt;div&gt;on January 8, 2014. &lt;b&gt;&lt;u&gt;Because&lt;/u&gt;&lt;/b&gt; Emma Bonino is a Italy politician and human&lt;/div&gt;&lt;div&gt;rights activist.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-6">
+          <mxGeometry x="11" y="25" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-11" value="" style="group" vertex="1" connectable="0" parent="zdHqMnHHbVyvmWfaEigO-1">
+          <mxGeometry x="100" y="251" width="381" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-11">
+          <mxGeometry y="15" width="370" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-11">
+          <mxGeometry x="20" y="6" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-14" value="Input Question" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-11">
+          <mxGeometry x="15" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zdHqMnHHbVyvmWfaEigO-15" value="Quadruple: (&#39;Foreign Affairs (Italy)&#39;, &#39;Consult&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Foreign Affairs (Isrel)&#39;, &#39;2014-01-17&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Answer:&amp;nbsp;&lt;/div&gt;&lt;div&gt;_______&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="zdHqMnHHbVyvmWfaEigO-11">
+          <mxGeometry x="11" y="25" width="280" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZKuq75Z6_qPCLaA_eGRh" name="事实性检测">
+    <mxGraphModel dx="977" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z2aXpst-Yh-dzfPaNnh_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="183" width="370" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="z2aXpst-Yh-dzfPaNnh_-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="174" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="z2aXpst-Yh-dzfPaNnh_-3" value="Task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="119" y="169" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z2aXpst-Yh-dzfPaNnh_-4" value="You are a seasoned &lt;i&gt;politician with extensive knowledge of political ev-&lt;/i&gt;&lt;div&gt;&lt;i&gt;ents&lt;/i&gt; and their contexts. You will be given two inputs: a political eve-&lt;/div&gt;&lt;div&gt;nt quadruple and a corresponding explanation. Your task is to &lt;u&gt;&lt;b&gt;evaluate&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;whether the explanation is clearly unreasonable&lt;/b&gt;&lt;/u&gt; in relation to the giv-&lt;/div&gt;&lt;div&gt;en event quadruple.&lt;/div&gt;&lt;div&gt;Here are two demonstrations to guide you:&lt;br&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="111" y="192" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="101" y="269" width="381" height="141.6412213740458" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-1">
+          <mxGeometry y="13.396946564885496" width="370" height="110.2671755725191" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-1">
+          <mxGeometry x="20" y="4.122137404580153" width="100" height="20.610687022900763" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-4" value="Demonstration-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-1">
+          <mxGeometry x="15" y="-2.0610687022900764" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-5" value="Quadruple: (&#39;Uhuru&#39;, &#39;Make an appeal or request&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Citizen (Kenya)&#39;, &#39;2014-12-08&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Explanation:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Uhuru made an appeal or request to the Citizen of Kenya on December 8,&amp;nbsp;&lt;/div&gt;&lt;div&gt;2014. Because the Citizen of Kenya is a Kenyan politician.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Evaluation:&lt;/div&gt;&lt;div&gt;&lt;b&gt;[Unreasonable]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-1">
+          <mxGeometry x="11" y="21.641221374045802" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="101" y="400" width="381" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-11">
+          <mxGeometry y="13.396946564885496" width="370" height="110.2671755725191" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-11">
+          <mxGeometry x="20" y="4.122137404580153" width="100" height="20.610687022900763" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-14" value="Demonstration-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-11">
+          <mxGeometry x="15" y="-2.0610687022900764" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-15" value="Quadruple: (&#39;South Korea&#39;, &#39;Criticize or denounce&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;North Korea&#39;, &#39;2014-05-13&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Explanation:&amp;nbsp;&lt;/div&gt;&lt;div&gt;South Korea strongly criticized North Korea on May 13, 2014. Because N-&lt;/div&gt;&lt;div&gt;orth Korea accused South Korea on May 11, 2024.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Evaluation:&lt;/div&gt;&lt;div&gt;&lt;b&gt;[Reasonable]&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-11">
+          <mxGeometry x="11" y="21.641221374045802" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="99" y="529" width="383" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-16">
+          <mxGeometry y="14.565885206143896" width="370" height="119.88843977364593" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-16">
+          <mxGeometry x="20" y="4.47948693074643" width="90" height="22.408307194826193" as="geometry" />
+        </mxCell>
+        <mxCell id="muMQpdMnso1aiB5K-p1G-20" value="Quadruple: (&#39;South Sudan&#39;, &#39;Praise or endorse&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Riek Machar&#39;, &#39;2014-05-27&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Explanation:&amp;nbsp;&lt;/div&gt;&lt;div&gt;South Sudan praised Riek Machar, the leader of the rebel movement, on&amp;nbsp;&lt;/div&gt;&lt;div&gt;May 27, 2014. Because Riek Machar is the first Vice President of South&amp;nbsp;&lt;/div&gt;&lt;div&gt;Sudan.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Evaluation:&lt;/div&gt;&lt;div&gt;___________&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="muMQpdMnso1aiB5K-p1G-16">
+          <mxGeometry x="11" y="23.52950687146322" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z2aXpst-Yh-dzfPaNnh_-10" value="" style="group" vertex="1" connectable="0" parent="muMQpdMnso1aiB5K-p1G-16">
+          <mxGeometry x="2" y="-39.14114793856103" width="381" height="147.86655887900835" as="geometry" />
+        </mxCell>
+        <mxCell id="z2aXpst-Yh-dzfPaNnh_-13" value="Input Question" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="z2aXpst-Yh-dzfPaNnh_-10">
+          <mxGeometry x="13" y="36.96663971975209" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7MVrbHlCTXEp1Dk5__ls" name="好的稠密证据">
+    <mxGraphModel dx="977" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nqo_zDWa1CG52L9n3Z_k-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="57.400000000000006" width="370" height="81.6" as="geometry" />
+        </mxCell>
+        <mxCell id="nqo_zDWa1CG52L9n3Z_k-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="48.12213740458016" width="100" height="20.610687022900763" as="geometry" />
+        </mxCell>
+        <mxCell id="nqo_zDWa1CG52L9n3Z_k-3" value="Evidence-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" y="41.93893129770993" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nqo_zDWa1CG52L9n3Z_k-4" value="Quadruple: (&#39;Yoshitaka Shindo&#39;, &#39;Make statement&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Media (Japan)&#39;, &#39;2014-01-01&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Evidence:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Yoshitaka Shindo, the Japanese politician, made a statement on January&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1, 2014. Because Media (Japan) is a Japanese media company.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="112" y="65.6412213740458" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v57IXvJS3pmrJfN1_ywr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="157.46" width="370" height="92.54" as="geometry" />
+        </mxCell>
+        <mxCell id="v57IXvJS3pmrJfN1_ywr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="149.18213740458015" width="100" height="20.610687022900763" as="geometry" />
+        </mxCell>
+        <mxCell id="v57IXvJS3pmrJfN1_ywr-3" value="Evidence-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" y="142.99893129770993" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v57IXvJS3pmrJfN1_ywr-4" value="Quadruple: (&#39;Shimon Peres&#39;, &#39;Consult&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;Barack Obama&#39;, &#39;2014-01-02&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Evidence:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Shimon Peres consulted with Barack Obama on January 2, 2014. Because S-&lt;/div&gt;&lt;div&gt;himon Peres is a former Prime Minister of Israel, and Barack Obama is&amp;nbsp;&lt;/div&gt;&lt;div&gt;the President of the United States.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="112" y="169.70122137404582" width="370" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="v57IXvJS3pmrJfN1_ywr-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="266.46" width="370" height="93.54" as="geometry" />
+        </mxCell>
+        <mxCell id="v57IXvJS3pmrJfN1_ywr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="121" y="257.18213740458015" width="100" height="20.610687022900763" as="geometry" />
+        </mxCell>
+        <mxCell id="v57IXvJS3pmrJfN1_ywr-7" value="Evidence-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" y="250.99893129770993" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v57IXvJS3pmrJfN1_ywr-8" value="Quadruple: (&#39;Business (Russia)&#39;, &#39;Criticize or denounce&#39;,&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;European Parliament&#39;, &#39;2014-09-18&#39;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Evidence:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Russian businesses criticized or denounced the European Parliament due&amp;nbsp;&lt;/div&gt;&lt;div&gt;to the economic sanctions imposed by the EU in response to Russia&#39;s a-&lt;/div&gt;&lt;div&gt;ctions in Ukraine.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Fira Code;fontSize=8;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="112" y="277.7012213740458" width="370" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
